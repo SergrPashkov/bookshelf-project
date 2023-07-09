@@ -9,3 +9,5 @@ import './js/shopping-list/shoppingList';
 //import './js/firebase/firebase-test.js';
 
 import './js/sign.js';
+
+import './js/allCategories.js';
